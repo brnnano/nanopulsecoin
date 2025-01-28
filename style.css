@@ -1,0 +1,28 @@
+/* Header */
+header {
+    background-color: #004c7f;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5%;
+}
+
+header .logo {
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    color: #004c7f;
+}
+
+header .logo i {
+    margin-right: 10px;
+    font-size: 48px;
+    color: #f5a623; /* Yellow for the pulse icon */
+}
+
+header .logo span {
+    font-weight: bold;
+}
