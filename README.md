@@ -12,7 +12,7 @@ Welcome to the **Nanopulse** cryptocurrency website! This site is dedicated to p
 - **Meme-Culture Integration**: Built on fun, humor, and meme culture, Nanopulse aims to bring joy to the crypto space.
 
 ## Slogan:
-**"Powering the Future of Crypto"**
+**"Powered the Future of Crypto"**
 
 ---
 
